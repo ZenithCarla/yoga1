@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-yoga {
+    display: block;
+    margin: 195px auto 122px auto;
+}
+
+input {
+    Width: 321px;
+    Height: 46px;
+    background-color: #F6F6F6;
+    box-shadow: -4px 4px 18px 0px #00000017;
+    border: none;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: block;
+}
+
+input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: #969696;
+    padding-left: 19px;
+}
+
+.input-pass {
+    margin-top: 21px;
+}
+
+.forgot {
+    font-style: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: black;    
+    margin: 35px 59px 38px 0; 
+    display: block;
+    text-align: right;
+    text-decoration: none ;
+}
+
+button {
+        height: 46px;
+        width: 132px;
+        border-radius: 10px;
+        background: #323232;
+        display: block;
+        margin: 0 auto;
+        box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #FFFFFF;
+}
+
+.account {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        line-height: 18px;
+        color: #969696;
+        text-align: center;
+        display: block;
+        margin-top: 21px;
+        text-decoration: none;
+}
+
+strong {
+    color: #323232
+}
+
+p {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: 62px;
+    text-align: center;
+    color: #000000;
+    display: block;
+}
+
+.google {
+    width: 36px;
+    height: 36px;
+    display: inline;
+    margin-top: 20px;
+    margin-left: 134px;
+    }
+
+.dots {
+    width: 39px;
+    height: 39px;
+    display: inline;
+    margin-top: 18.5px;
+    margin-left: 16.5px;
+    }
+
+.facebook {
+    width: 36px;
+    height: 36px;
+    display: inline;
+    margin-top: 22px;
+    margin-left: 16.5px;
+}
+
+   
+
+
